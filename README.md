@@ -1,4 +1,5 @@
 # salon-time-client
+## Salon-owner & Staff member's CMS along with Booking page code live here
 
 ## Available Scripts
 
